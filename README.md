@@ -1,7 +1,7 @@
 #  Get the stocks holding information of different mutual fund houses in india 
 
-### Objectives :  Lot of people do not know on which company to invest their hard earned money. This program will fetch holding
-### information of different stocks hold by different mutual fund houses. Informaiton will be stored in a mysql database.
+### Objectives :  Lot of people do not know on which company to invest their hard earned money. 
+### This program will fetch holding information of different stocks hold by different mutual fund houses. Informaiton will be stored in a mysql database.
 
 We can query the database like 
 - top 10 stocks hold by maximun number fund houses.  
